@@ -59,7 +59,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632563/1830/1830_OC_PUNTA_PRIMA.jpg
   caption: All Available Blocks
 - template: detail-content
   block: text-1
