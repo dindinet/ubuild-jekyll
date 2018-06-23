@@ -29,7 +29,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/v1527632563/1830/1830_VM_2.jpg"
-    alt_text: Product Shot
+    alt_text: lake reflection
   background_image: "/v1527632607/sample.jpg"
 - template: content-feature
   block: feature-1
