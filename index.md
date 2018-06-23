@@ -37,7 +37,7 @@ page_sections:
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+    different sections. wow!
   media:
     image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632558/1830/1830_3c.jpg
     alt_text: uBuild Blocks Mock-Up
