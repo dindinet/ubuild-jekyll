@@ -49,7 +49,7 @@ page_sections:
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/v1527632564/1830/1830_VM_3.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
