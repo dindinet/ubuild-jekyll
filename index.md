@@ -30,7 +30,7 @@ page_sections:
   image:
     image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632556/1830/1830_VM_7.jpg
     alt_text: lake reflection
-  background_image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632555/1830/1830_1b_new.jpg
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
