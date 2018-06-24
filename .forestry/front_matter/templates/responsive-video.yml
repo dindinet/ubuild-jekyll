@@ -1,0 +1,8 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: URI of Video to embed
+  name: uri_of_video_to_embed
+  description: Paste the video URI here
