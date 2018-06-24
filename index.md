@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: See on GitHub
   image:
-    image: "/v1527632563/1830/1830_VM_2.jpg"
+    image: ''
     alt_text: lake reflection
   background_image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632555/1830/1830_1b_new.jpg
 - template: content-feature
