@@ -75,6 +75,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎ I love you.
+- template: 4-column-footer
+  block: footer-2
+  image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632562/1830/1830_OC_merc_2.jpg
+  col_2: Column 2
+  col_3: Column 3
+  col_4: Column 4
 ---
 
 foo bar
