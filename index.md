@@ -81,6 +81,7 @@ page_sections:
   col_2: Column 2
   col_3: Column 3
   col_4: Column 4
+- template: responsive-video
 ---
 
 foo bar
