@@ -20,7 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: <img src="https://res.cloudinary.com/maxgoldhouse/image/upload/v1539730255/colordiamonds.png">uBuild
+    <br><strong>design blocks</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
@@ -28,9 +29,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: See on GitHub
   image:
-    image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632556/1830/1830_VM_7.jpg
+    image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632563/1830/1830_VM_2.jpg
     alt_text: lake reflection
-  background_image: ''
+  background_image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1531087044/1830_OC_2_tshgwf.jpg
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -59,7 +60,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632563/1830/1830_OC_PUNTA_PRIMA.jpg
+  image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632560/1830/1830_OC_1a.jpg
   caption: All Available Blocks
 - template: detail-content
   block: text-1
@@ -81,6 +82,7 @@ page_sections:
   col_2: Column 2
   col_3: Column 3
   col_4: Column 4
+
 ---
 
 foo bar
